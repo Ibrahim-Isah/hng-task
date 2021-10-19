@@ -22,6 +22,7 @@ ORDER: Base + Typography > Generar Layout + Grid > Page Layout > Components
 
 html {
   font-size: 62.5%;
+  margin:10px;
 }
 
 body {
